@@ -1,6 +1,6 @@
 # Hi there, I'm Jason 👋
 
-### 🎓 Computer Science Student Specializing in Cybersecurity
+### 🎓 APU Computer Science Student Specializing in Cybersecurity
 ### 🔐 Passionate about network infrastructure, cryptography, and ethical hacking
 
 ## 🔧 Skills
