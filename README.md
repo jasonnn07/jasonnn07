@@ -6,7 +6,7 @@
 ## 🔧 Skills
 - Network Configuration
 - Python, C++
-- Database Basics
+- PostgreSQL Database
 
 ## 📂 Projects
 
