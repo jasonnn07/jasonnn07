@@ -4,7 +4,7 @@
 ### 🔐 Passionate about network infrastructure, cryptography, and ethical hacking
 
 ## 🔧 Skills
-- Network Configuration
+- Basic Network Configuration
 - Python, C++
 - PostgreSQL Database
 
