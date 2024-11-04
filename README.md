@@ -2,7 +2,7 @@
 
 ### 🎓 Computer Science Student Specializing in Cybersecurity
 ### 📚 Studied in Asia Pacific University 
-### 🔐 Passionate about network infrastructure, cryptography, and ethical hacking
+### 🔐 Passionate about network infrastructure, ethical hacking, and blockchain
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges#markdown-badges --> 
 ## 💻 Tech Stack
