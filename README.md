@@ -12,6 +12,9 @@
 
 ## 📂 Projects
 
+## 🗞️ Research
+
+
 ## 📜 Certifications
 
 ## 🥇 Competition/Events
