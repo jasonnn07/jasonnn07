@@ -13,14 +13,20 @@
 ## 📂 Projects
 
 ## 🗞️ Research
-
+**[Decentralized Finance](https://github.com/jasonnn07/jasonnn07/blob/main/DEX.pdf)**
 
 ## 📜 Certifications
 
 ## 🥇 Competition/Events
-APUBCC Sparkathon 2023
+**APUBCC Sparkathon 2023**
 
-AWS Student Symposium 2024
+**AWS Student Symposium 2024**
+
+**Google Workspace Hackathon 2024**
+
+**devMatch Hackathon 2024**
+
+**Buildstation <> Radar Ideathon 2024**
 
 ### 📫 Contact Me 
 - [Email](jasontan9198@gmail.com)
