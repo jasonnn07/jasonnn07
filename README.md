@@ -14,6 +14,15 @@
 **[Decentralized Finance](https://github.com/jasonnn07/jasonnn07/blob/main/DEX.pdf)**
 
 ## 📜 Certifications
+**Mastercard's Cybersecurity 2024**
+
+**Verizon's Cloud Platform 2024**
+
+**ISC2 CCCertified in Cybersecurity (CC) 2024**
+
+**Cisco CCNAv7 Switching, Routing & Wireless Essentials 2024**
+
+**Red Hat Training & Certification 2024**
 
 ## 🥇 Competition/Events
 **APUBCC Sparkathon 2023**
@@ -28,8 +37,11 @@
 
 **Forensics Game CTF 2024**
 
+**Internal Capture the Flag (CTF) 2024**
+
 ### 📫 Contact Me 
 - [Email](jasontan9198@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jason-tan-9393b127b/)
 
 *Let's connect and collaborate on exciting cybersecurity projects!*
 
