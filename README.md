@@ -2,8 +2,8 @@
 # Hi there, I'm Jason 👋
 
 ### 🎓 Computer Science Student Specializing in Cybersecurity
-### 📚 Studied in Asia Pacific University 
-### 🔐 Passionate about Network Infrastructure, Ethical Hacking, and Blockchain
+### 📚 Asia Pacific University of Technology and Innovation
+### 🔐 Passionate about Ethical Hacking, Cloud and Network Infrastructure
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges#markdown-badges --> 
 ## 💻 Tech Stack
@@ -44,13 +44,5 @@
 - [LinkedIn](https://www.linkedin.com/in/jason-tan-9393b127b/)
 
 *Let's connect and collaborate on exciting cybersecurity projects!*
-
-<!-- Github stats -->
-## 📊 GitHub Stats
-<!-- ![](https://github-readme-stats.vercel.app/api?username=jasonnn07&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=jasonnn07&theme=aura&hide_border=false)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=jasonnn07&icon=10&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
